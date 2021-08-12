@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Filmaria
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview
 
-## Available Scripts
+<h1 align="center">
+  <img alt="fimaria01" title="#fimaria01" src="https://www.imagemhost.com.br/images/2021/08/12/Screenshot-from-2021-08-12-16-04-12.png" width="100%" />
+  <img alt="fimaria02" title="#fimaria02" src="https://www.imagemhost.com.br/images/2021/08/12/Screenshot-from-2021-08-12-16-04-29.png" width="100%" />
+  <img alt="fimaria03" title="#fimaria03" src="https://www.imagemhost.com.br/images/2021/08/12/Screenshot-from-2021-08-12-16-05-08.png" width="100%" />
+</h1>
 
-In the project directory, you can run:
+## 💻 Project
 
-### `yarn start`
+Este projeto foi realizado com objetivo de estudo.
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Aplicando conceitos básicos de Javascript e a utilização do localStorage para criar uma lista de favoritos.
+<br />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🧬 Techologies
 
-### `yarn test`
+This project was developed using the following technologies:
+ 
+- [React](https://pt-br.reactjs.org/);
+- [Styled-Components](https://styled-components.com/);
+- Axios;
+- API RESTful
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## 🚀 Getting Started 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the project and access the folder.
+```bash
+#Clone project
+$ git clone https://github.com/evertonfxavier/filmaria.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Follow the steps below
+```bash
+#Install the dependecies 
+$ npm install or yarn  
+ 
+#Start projet
+$ npm run start or yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 License
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/evertonfxavier/filmaria/blob/main/LICENSE.md) file for details
